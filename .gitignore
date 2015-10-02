@@ -1,0 +1,24 @@
+# temp files
+*~
+*.swp
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ Idea files
+.idea/
+out/
+
+# Eclipse files
+.project
+.settings
+.classpath
+
+
+# Gradle files
+.gradle
+temp/
+build/
+
+/local.properties
+
